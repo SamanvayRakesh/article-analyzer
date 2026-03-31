@@ -1,6 +1,9 @@
 # article-analyzer
-An API-Integrated project which has a streamlit UI and can analyze URLs and allow you to ask questions about the URL that is input.
-# File 1:
+An API-integrated project with a Streamlit UI that analyzes URLs and lets you ask questions about the input URL.
+
+
+#File 1:
+
 import requests
 from bs4 import BeautifulSoup
 
